@@ -64,6 +64,7 @@ class App extends React.Component {
               value={this.state.value}
               onChange={(event) => this.setState({ value: event.target.value })}
             />
+            <label>(Mininum 0.11 ether)</label>
           </div>
           <button>Enter</button>
         </form>
