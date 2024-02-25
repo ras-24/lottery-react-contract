@@ -18,7 +18,7 @@ This is an example of how you can set up this project locally. To get a local co
    ```sh
    npm install
    ```
-4. On src/lottery.js file, please change to your Contract Deployed Address and Contract ABI from [lottery contract backend](https://github.com/ras-24/lottery-contract) deployed code.
+4. On src/lottery.js file, please change to your **Contract Deployed Address** and **Contract ABI** from [lottery contract backend](https://github.com/ras-24/lottery-contract) deployed code.
    ```sh
    const address = "YOUR_ADDRESS";
    // remember to change this to your Contract Deployed Address!
