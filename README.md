@@ -30,7 +30,6 @@ This is an example of how you can set up this project locally. To get a local co
    ```sh
    npm run start
    ```
-6. Copy **Contract Deployed Address** and **Contract ABI** to [lottery contract frontend](https://github.com/ras-24/lottery-react-contract/blob/main/src/lottery.js)
 
 ## License
 
