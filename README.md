@@ -23,7 +23,7 @@ This is an example of how you can set up this project locally. To get a local co
    const address = "YOUR_ADDRESS";
    // remember to change this to your Contract Deployed Address!
 
-   const abi = // [YOUR_ABI]
+   const abi = [YOUR_ABI]
    // remember to change this to your Contract ABI!
    ```
 5. Run project
